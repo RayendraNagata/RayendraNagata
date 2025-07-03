@@ -31,7 +31,7 @@ When I’m not debugging, you’ll probably find me:
 
 ---
 
-[![Rayendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayendraNagata&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayendraNagata&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 > _“Code, create, repeat — but always make time for your favorite song or show!”_
 
