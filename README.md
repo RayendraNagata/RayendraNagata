@@ -1,0 +1,38 @@
+# Hi there, I'm Rayendra Nagata! 👋
+
+🎓 **Student • Developer • Curious Mind**
+
+---
+
+### 💻 Tech Stack
+- **Languages:** PHP, Python, JavaScript
+- **Always exploring** new tech and ways to make life easier!
+
+---
+
+### 🚀 Featured Project
+
+**[Social Media Asset Downloader](https://github.com/RayendraNagata/social-media-asset-downloader)**
+> Your one-stop tool to fetch and organize assets from your favorite social platforms.  
+> _Built with efficiency, curiosity, and a touch of caffeine._
+
+---
+
+### 🎶 What keeps me coding?
+When I’m not debugging, you’ll probably find me:
+- Listening to K-pop playlists on repeat 🎧
+- Binge-watching the latest K-drama hits 🍿
+
+---
+
+### 🌐 Let’s Connect
+
+- Check out my portfolio: [rayendraogyanagata.me](https://rayendraogyanagata.me)
+
+---
+
+[![Rayendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayendraNagata&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+> _“Code, create, repeat — but always make time for your favorite song or show!”_
+
+---
