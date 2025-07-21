@@ -12,8 +12,8 @@
 
 ### 🚀 Featured Project
 
-**[Social Media Asset Downloader](https://github.com/RayendraNagata/ScreenSquad)**
-> Your one-stop tool to fetch and organize assets from your favorite social platforms.  
+**[ScreenSquad](https://github.com/RayendraNagata/ScreenSquad)**
+> Your one click watch party web.  
 > _Built with efficiency, curiosity, and a touch of caffeine._
 
 ---
