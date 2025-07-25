@@ -70,15 +70,6 @@
 
 ---
 
-## 🎮 Fun Zone
-
-<div align="center">
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/RayendraNagata/RayendraNagata/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <details>
 <summary>🎵 What keeps me coding?</summary>
 <br>
@@ -111,9 +102,8 @@ When I'm not debugging, you'll probably find me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rayendraogyanagata.me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayendraNagata)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayendra-nagata)
 
-**📧 Email:** rayendra.nagata@example.com *(update with your real email)*
+**📧 Email:** realrayendra@gmail.com
 
 </div>
 
