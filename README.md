@@ -20,8 +20,8 @@
 
 ### 🎶 What keeps me coding?
 When I’m not debugging, you’ll probably find me:
-- Listening to K-pop playlists on repeat 🎧
-- Binge-watching the latest K-drama hits 🍿
+- Listening to K-pop playlists on repeat 
+- Binge-watching the latest K-drama hits 
 
 ---
 
