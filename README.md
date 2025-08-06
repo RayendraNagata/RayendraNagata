@@ -75,7 +75,7 @@
 <br>
 
 When I'm not debugging, you'll probably find me:
-- 🎶 Listening to K-pop playlists on repeat (BLACKPINK, BTS, TWICE anyone?)
+- 🎶 Listening to K-pop playlists on repeat (RED VELVET, IVE, HEARTS2HEARTS anyone?)
 - 📺 Binge-watching the latest K-drama hits 
 - 🎮 Playing games or watching tech tutorials
 - ☕ Brewing the perfect cup of coffee for those late-night coding sessions
