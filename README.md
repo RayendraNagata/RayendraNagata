@@ -20,6 +20,5 @@ Project manager intern with a software engineering background — I understand b
 
 ### GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RayendraNagata&show_icons=true&hide_border=true&count_private=true&theme=default)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayendraNagata&layout=compact&hide_border=true&theme=default)
